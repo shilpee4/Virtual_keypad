@@ -7,5 +7,5 @@ sudo rm /dev/virtual_keypad
 make 
 sudo insmod pad.ko
 sudo mknod /dev/virtual_keypad c 237 0 
-sudo ./keypadlistener.sh yatharth &
+sudo ./keypadlistener.sh shilpee &
 sudo ./gtapp &
