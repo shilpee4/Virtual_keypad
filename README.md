@@ -131,14 +131,6 @@ dmesg | grep VirtualKeypad
 - **virtual_keypad.c**: The main kernel module source file.
 - **Makefile**: Makefile for building the kernel module.
 
-## Authors
 
-- Yatharth Nanda
-- Soham Walimbe
-- Hrishav Deka
-
-## Contact
-
-For issues or questions, please mail @yatharthnanda25@gmail.com
 
 ---
